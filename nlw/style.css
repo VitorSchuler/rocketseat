@@ -1,0 +1,8 @@
+body {
+    background-image: url("./assets/bg.jpg"); /*Imagem*/
+    background-repeat: no-repeat; /*Não repetir a imagem*/
+    background-size: 100% auto; /*width e height automáticos*/
+    background-position: top center; /**/
+    background-color: #121214; /*Fundo é o fim da imagem (vai escurecendo e fica na mesma cor no fim)*/
+    color: white;
+}
